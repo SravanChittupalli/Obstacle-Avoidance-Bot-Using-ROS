@@ -22,7 +22,7 @@ Xacro is used in the project to clean the URDF code.
 
 ## Video
 
-[![Obstacle-Avoidance-Using-ROS-And-Gazebo](http://img.youtube.com/vi/yoHwEvan2nE/0.jpg)](https://www.youtube.com/watch?v=yoHwEvan2nE "Obstacle-Avoidance-Using-ROS-And-Gazebo")
+[![Obstacle-Avoidance-Using-ROS-And-Gazebo](https://youtu.be/4ECO572d5kQ.jpg)](https://youtu.be/4ECO572d5kQ "Obstacle-Avoidance-Using-ROS-And-Gazebo")
 
 ## To-Do / Improvements
 
