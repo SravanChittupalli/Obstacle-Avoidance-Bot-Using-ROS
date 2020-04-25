@@ -26,7 +26,7 @@ Xacro is used in the project to clean the URDF code.
 
 ## To-Do / Improvements
 
-* Decrease the size/complexity of obstacle-avoid.cpp code
+* Decrease the size/complexity of obstacle_avoidance.cpp code
 
 ## License
 
