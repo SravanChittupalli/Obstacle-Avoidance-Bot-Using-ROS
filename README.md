@@ -1,7 +1,6 @@
 # Obstacle-Avoidance-Using-ROS-And-Gazebo
 
-This is the final project for [Robocademy](http://robocademy.com/) ROS Course.
-For this project we have to build a differential drive robot which can avoid obstacles. The robot design and other requirements can be found in this [PDF](assignment.pdf)
+This project contains a bot simulation in Gazebo which can avoid obstacles. The robot design and other requirements can be found in this [PDF](assignment.pdf)
 
 ## Getting Started
 
@@ -20,10 +19,6 @@ This will launch and load the robot in the gazebo enviroment
 ## Video
 
 [![Obstacle-Avoidance-Using-ROS-And-Gazebo](http://img.youtube.com/vi/yoHwEvan2nE/0.jpg)](https://www.youtube.com/watch?v=yoHwEvan2nE "Obstacle-Avoidance-Using-ROS-And-Gazebo")
-
-## To-Do / Improvements
-
-* Use xacro to define the model to make it more readable and configurable
 
 ## License
 
