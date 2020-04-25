@@ -1,4 +1,4 @@
-# Obstacle-Avoidance-Using-ROS-And-Gazebo
+# Obstacle-Avoidance-Bot-Using-ROS
 
 This project contains a bot simulation in Gazebo which can avoid obstacles. The robot design and other requirements can be found in this [PDF](assignment.pdf)
 
