@@ -1,5 +1,5 @@
 # Obstacle-Avoidance-Bot-Using-ROS
-This project contains a bot simulation in Gazebo which can avoid obstacles. The robot design and other requirements can be found in this [PDF](assignment.pdf)
+This project contains a bot simulation in Gazebo which can avoid obstacles. The robot design and other requirements can be found in this [PDF](assignment.pdf). 
 The obstacle avoid is available in both cpp and python languages.
 Xacro is used in the project to clean the URDF code.
 
