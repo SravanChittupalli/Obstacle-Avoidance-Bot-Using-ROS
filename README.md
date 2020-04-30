@@ -33,4 +33,4 @@ Xacro is used in the project to clean the URDF code.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Reference
-[Construct](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1/)
+[Construct YouTube Channel](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1/)
