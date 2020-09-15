@@ -22,7 +22,7 @@ Xacro is used in the project to clean the URDF code.
 
 ## Video
 
-![https://www.youtube.com/watch?v=4ECO572d5kQ](assets/output.png)
+[![Video Demo](assets/output.png)](https://www.youtube.com/watch?v=4ECO572d5kQ)
 
 ## To-Do / Improvements
 
