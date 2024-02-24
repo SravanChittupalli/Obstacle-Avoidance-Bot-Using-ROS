@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <launch>
-  <param command="$(find xacro)/xacro '$(find m2wr_description)/urdf/bot_description.xacro'" name="robot_description"/>
+  <param command="$(find xacro)/xacro '$(find obstacle_avoidance_bot)/urdf/bot_description.xacro'" name="robot_description"/>
 
     <arg name="x" default="0"/>
     <arg name="y" default="0"/>

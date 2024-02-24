@@ -9,8 +9,8 @@ Xacro is used in the project to clean the URDF code.
 2. Run `catkin_make`
 3. Go to obstacle-avoid.py and make it executable using `chmod +x obstacle_avoidance.py`. No need to do this step if you are using the obstacle-avoid.cpp code.
 3. Open 3 Terminals
-4. Run the command `roslaunch Obstacle-Avoidance-Bot-Using-ROS spawn.launch`. 
-5. In the second terminal run the command `rosrun Obstacle-Avoidance-Bot-Using-ROS obstacle_avoidance.py` or `rosrun Obstacle-Avoidance-Bot-Using-ROS obstacle_avoidance.cpp`
+4. Run the command `roslaunch obstacle_avoidance_bot spawn.launch`. 
+5. In the second terminal run the command `rosrun obstacle_avoidance_bot obstacle_avoidance.py` or `rosrun obstacle_avoidance_bot obstacle_avoidance.cpp`
 6. In last terminal, run the command `rosrun gazebo_ros gazebo --verbose` to start the robot and begin the obstacle avoidance course.
 7. Add blocks in between wherever you want or you can download a world from anywhere else and spawn the bot there.
 

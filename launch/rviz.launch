@@ -1,9 +1,9 @@
 <launch>
   <arg name="gui" default="true" />
 
-  <arg name="model" default="$(find m2wr_description)/urdf/bot_description.xacro"/>
+  <arg name="model" default="$(find obstacle_avoidance_bot)/urdf/bot_description.xacro"/>
 
-  <param command="$(find xacro)/xacro '$(find m2wr_description)/urdf/bot_description.xacro'" name="robot_description"/>
+  <param command="$(find xacro)/xacro '$(find obstacle_avoidance_bot)/urdf/bot_description.xacro'" name="robot_description"/>
  
   <!-- <arg name="rvizconfig" default="$(find urdf_tutorial)/rviz/urdf.rviz" /> -->
 

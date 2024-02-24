@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<robot name="m2wr" xmlns:xacro="https://www.ros.org/wiki/xacro" >   <!-- this second parameter is importent to make this file a valid xacro file -->
+<robot name="m2wr" xmlns:xacro="https://www.ros.org/wiki/xacro" >   <!-- this second parameter is important to make this file a valid xacro file -->
 
 <!-- in rviz red - x  | green - y | blue -z  -->
 
 <!-- while using odom tf do not forget to do   rosparam set use_sim_time true  as this gives all simulations the same time -->
 
 
-<xacro:include filename="$(find m2wr_description)/urdf/material.xacro" />
-<xacro:include filename="$(find m2wr_description)/urdf/gazebo.xacro" />
-<xacro:include filename="$(find m2wr_description)/urdf/link_joint.xacro" />
+<xacro:include filename="$(find obstacle_avoidance_bot)/urdf/material.xacro" />
+<xacro:include filename="$(find obstacle_avoidance_bot)/urdf/gazebo.xacro" />
+<xacro:include filename="$(find obstacle_avoidance_bot)/urdf/link_joint.xacro" />
 
     
   <link name="link_chassis">
